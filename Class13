@@ -1,0 +1,29 @@
+a:link {
+  color: gray;
+}
+a:visited {
+  color: green;
+}
+a:active {
+  color: black; 
+}
+:hover {
+  color: red;
+}
+.relativeExample {
+  position: relative;
+  top: 10px;
+}
+.fixedExample {
+  position: fixed;
+  top: 0;
+}
+.absoluteExample {
+  position: absolute;
+  top: 50px;
+  left: 20px;
+}
+.stickyExample {
+  position: sticky;
+  top: 100px;
+}
