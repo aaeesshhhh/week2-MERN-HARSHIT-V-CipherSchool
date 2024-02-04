@@ -1,0 +1,13 @@
+div {
+  margin: 10px; 
+  border: 2px dashed black; 
+  padding: 5px; 
+  width: 200px; 
+  height: 200px; 
+}
+div.overflowExample {
+  overflow: scroll;
+}
+.centerExample {
+  margin: 10px auto; 
+}
